@@ -1,12 +1,12 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DULAKSHANA+NEW+WhatsApp+BOT+MD+V1)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT-NEW">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg](https://i.ibb.co/JjdhNVmY/IMG-3856.jpg"  width="700px">
+    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
 </a>
 <hr>
  <p align="center">
@@ -72,7 +72,7 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/BOT-NEW)
+ [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/BOT-NEW-2)
   
 [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
